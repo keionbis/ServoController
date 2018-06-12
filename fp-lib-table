@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name AM4096Q)(type KiCad)(uri "$(KIPRJMOD)/AM4096Q")(options "")(descr ""))
+  (lib (name LDK320ADU33R)(type Legacy)(uri /Users/keionbisland/Downloads/LIB_LDK320ADU33R/LDK320ADU33R/KiCad/LDK320ADU33R.mod)(options "")(descr ""))
+)
